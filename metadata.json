@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Fitness Club",
+  "description": "Zamonaviy fitnes klubi: professional murabbiylar, moslashuvchan abonementlar va qulay to'lov tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
